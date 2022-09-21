@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Projetos\AOO\Estrutura_De_Dados\.metadata\.plugins\org.eclipse.jdt.core
+1521666562.index
+4066626560.index
+1985579010.index
+3055271367.index
+1865797976.index
